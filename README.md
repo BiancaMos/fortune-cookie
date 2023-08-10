@@ -44,7 +44,7 @@ Arrays
 Project made in Rocketseat's course "Explorer". 
 The layout was sent via Figma.
 
-🇧🇷 **N**este projeto a ideia é clicar no biscoito da sorte e receber uma mensagem. Para isso, criei uma array para as frases e usei o JS Math() para inserir frases randomicamente cada vez que o biscoito é clicado. Houveram novos desafios em relação a manipulação de dados do html com o javascript e também ajudou a melhorar a minha lógica de programação. 
+🇧🇷 **N**este projeto a ideia é clicar no biscoito da sorte e receber uma mensagem. Para isso, criei uma array para as frases e usei o JS Math() para inserir frases randomicamente cada vez que o biscoito é clicado. Houve novos desafios em relação a manipulação de dados do html com o javascript e também ajudou a melhorar a minha lógica de programação. 
 O layout para consulta foi enviado através da plataforma Figma. 
 Projeto feito no curso Explorer da Rocketseat. 
 
